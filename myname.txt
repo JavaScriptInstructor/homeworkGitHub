@@ -1,6 +1,2 @@
 
-<<<<<<< HEAD
-Tiffany
-=======
-Tiffany
->>>>>>> refs/remotes/origin/main
+TNG
